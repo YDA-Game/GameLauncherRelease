@@ -1,0 +1,9 @@
+{
+	"isDummy"	: "ダミー用 この変数を書くことでランチャーに表示されなくなります 値は関係なし",
+	"title" 	: "タイトル",
+	"exe"		: "えぐぜ.exe",
+	"thumbnail"   	: "さむね.png",
+	"movie"		: "デモどうが.mp4",
+	"textFile"	: "りどみ.txt",
+	"text"		: "説明文直書き(textfileを優先)"
+}
